@@ -19,10 +19,12 @@ pip install xlsxwriter
 
 python OTB.py
 
+### Push updates
 
-### push updates
-git add README.md
+git add .
 
-git commit -m "📝 Updated README with Codespaces run instructions and visuals"
+git commit -m "📦 Updated and re-uploaded all project files"
 
 git push origin main
+
+
