@@ -9,3 +9,18 @@
 
 ```bash
 python OTB.py
+
+
+
+### in terminal run
+pip install openpyxl
+
+python OTB.py
+
+
+### push updates
+git add README.md
+
+git commit -m "📝 Updated README with Codespaces run instructions and visuals"
+
+git push origin main
