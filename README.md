@@ -12,8 +12,10 @@ python OTB.py
 
 
 
-### in terminal run
+### Run py in terminal run
 pip install openpyxl
+
+pip install xlsxwriter
 
 python OTB.py
 
